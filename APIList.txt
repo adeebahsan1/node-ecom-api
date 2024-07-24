@@ -1,0 +1,4 @@
+products,
+get products,
+add a Product,
+Rate Product.
